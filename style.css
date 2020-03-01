@@ -1,0 +1,29 @@
+#main
+{
+    background: #eeeeee;
+    width: 98%;
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+#title
+{
+    padding-bottom: 1em;
+}
+#div-image
+{
+    background: #ffffff;
+}
+#tribute-info
+{
+    width: 50%;
+    text-align: left;
+}
+#tribute-info ul li
+{
+    line-height: 2em;
+}
+cite
+{
+    margin-bottom: 50px;
+}
